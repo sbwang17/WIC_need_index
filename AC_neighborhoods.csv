@@ -1,0 +1,379 @@
+GEOID,tract,municipality,pgh_neighborhood
+42003040400,404,Pittsburgh,North Oakland
+42003060300,603,Pittsburgh,Lower Lawrenceville
+42003070300,703,Pittsburgh,Shadyside
+42003080200,802,Pittsburgh,Bloomfield
+42003080400,804,Pittsburgh,Bloomfield
+42003080600,806,Pittsburgh,Bloomfield
+42003080700,807,Pittsburgh,Friendship
+42003090100,901,Pittsburgh,Central Lawrenceville
+42003090200,902,Pittsburgh,Central Lawrenceville
+42003140100,1401,Pittsburgh,Squirrel Hill North
+42003140500,1405,Pittsburgh,Point Breeze North
+42003151600,1516,Pittsburgh,Greenfield
+42003190300,1903,Pittsburgh,Mount Washington
+42003191500,1915,Pittsburgh,Mount Washington
+42003270100,2701,Pittsburgh,Brighton Heights
+42003409002,4090.02,Pine Township,N/A
+42003412004,4120.04,Franklin Park Borough,N/A
+42003413400,4134,McCandless Township,N/A
+42003423000,4230,Aspinwall Borough,N/A
+42003426700,4267,Shaler Township,N/A
+42003426800,4268,Shaler Township,N/A
+42003430200,4302,West View Borough,N/A
+42003431500,4315,Bellevue Borough,N/A
+42003451105,4511.05,Moon Township,N/A
+42003453004,4530.04,North Fayette Township,N/A
+42003456004,4560.04,South Fayette Township,N/A
+42003465800,4658,Crafton Borough,N/A
+42003470501,4705.01,Scott Township,N/A
+42003470600,4706,Scott Township,N/A
+42003471000,4710,Heidelberg Borough,N/A
+42003472100,4721,Dormont Borough,N/A
+42003473500,4735,Mount Lebanon,N/A
+42003474202,4742.02,Upper St. Clair Municipality,N/A
+42003484300,4843,Munhall Borough,N/A
+42003496101,4961.01,Elizabeth Township,N/A
+42003525200,5252,Oakmont Borough,N/A
+42003526201,5262.01,Plum Borough,N/A
+42003526302,5263.02,Plum Borough,N/A
+42003560500,5605,Wilkinsburg Borough,N/A
+42003563900,5639,Chalfant Borough-Forest Hills Borough,N/A
+42003564000,5640,McDonald Borough-North Fayette Township,N/A
+42003474201,4742.01,Upper St. Clair Municipality,N/A
+42003564200,5642,South Versailles Township-White Oak Borough ,N/A
+42003422000,4220,Fox Chapel Borough,N/A
+42003456001,4560.01,South Fayette Township,N/A
+42003519000,5190,Churchill Borough,N/A
+42003521401,5214.01,Monroeville Municipality,N/A
+42003140400,1404,Pittsburgh,Point Breeze
+42003409001,4090.01,Pine Township,N/A
+42003411001,4110.01,Marshall Township,N/A
+42003446000,4460,Edgeworth Borough,N/A
+42003468800,4688,Carnegie Borough,N/A
+42003470502,4705.02,Scott Township,N/A
+42003473602,4736.02,Mount Lebanon,N/A
+42003141100,1411,Pittsburgh,Swisshelm Park
+42003429500,4295,Ross Township,N/A
+42003482500,4825,West Homestead Borough,N/A
+42003497000,4970,Lincoln Borough,N/A
+42003413202,4132.02,McCandless Township,N/A
+42003413300,4133,McCandless Township,N/A
+42003418000,4180,Cheswick Borough,N/A
+42003451104,4511.04,Moon Township,N/A
+42003470300,4703,Scott Township,N/A
+42003475303,4753.03,Bethel Park Municipality,N/A
+42003488500,4885,West Mifflin Borough,N/A
+42003523300,5233,Penn Hills Municipality,N/A
+42003110200,1102,Pittsburgh,Highland Park
+42003474102,4741.02,Upper St. Clair Municipality,N/A
+42003475401,4754.01,Bethel Park Municipality,N/A
+42003518001,5180.01,Forest Hills Borough,N/A
+42003140800,1408,Pittsburgh,Squirrel Hill South
+42003448000,4480,Leetsdale Borough,N/A
+42003525300,5253,Oakmont Borough,N/A
+42003101800,1018,Pittsburgh,Stanton Heights
+42003451101,4511.01,Moon Township,N/A
+42003495000,4950,Forward Township,N/A
+42003431400,4314,Bellevue Borough,N/A
+42003460001,4600.01,Kennedy Township,N/A
+42003490004,4900.04,South Park Township,N/A
+42003521302,5213.02,Monroeville Municipality,N/A
+42003563300,5633,Sewickley Heights Borough-Sewickley Hills Borough ,N/A
+42003429201,4292.01,Ross Township,N/A
+42003452000,4520,Findlay Township,N/A
+42003456003,4560.03,South Fayette Township,N/A
+42003459201,4592.01,Robinson Township,N/A
+42003563800,5638,Aleppo Township- Ben Avon Heights Borough-Glenfield Borough-Glen Osborne Borough-Haysville Borough- Kilbuck Township,N/A
+42003564100,5641,Rosslyn Farms Borough-Thornburg Borough,N/A
+42003020100,201,Pittsburgh,Central Business District
+42003140300,1403,Pittsburgh,Squirrel Hill North
+42003414200,4142,Hampton Township,N/A
+42003101400,1014,Pittsburgh,Morningside
+42003413100,4131,McCandless Township,N/A
+42003426300,4263,Shaler Township,N/A
+42003451300,4513,Moon Township,N/A
+42003474203,4742.03,Upper St. Clair Municipality,N/A
+42003489002,4890.02,Pleasant Hills Borough,N/A
+42003151700,1517,Pittsburgh,Greenfield
+42003459102,4591.02,Robinson Township,N/A
+42003475304,4753.04,Bethel Park Municipality,N/A
+42003491200,4912,Jefferson Hills Borough,N/A
+42003520002,5200.02,Wilkins Township,N/A
+42003525100,5251,Oakmont Borough,N/A
+42003413500,4135,McCandless Township,N/A
+42003490002,4900.02,South Park Township,N/A
+42003491101,4911.01,Jefferson Hills Borough,N/A
+42003515200,5152,Swissvale Borough,N/A
+42003070600,706,Pittsburgh,Shadyside
+42003496200,4962,Elizabeth Township,N/A
+42003241300,2413,Pittsburgh,Spring Garden-Troy Hill
+42003475200,4752,Bethel Park Municipality,N/A
+42003475301,4753.01,Bethel Park Municipality,N/A
+42003498000,4980,Liberty Borough,N/A
+42003526301,5263.01,Plum Borough,N/A
+42003428100,4281,Reserve Township,N/A
+42003414101,4141.01,Hampton Township,N/A
+42003414102,4141.02,Hampton Township,N/A
+42003421100,4211,O Hara Township,N/A
+42003459202,4592.02,Pennsbury Village Borough,N/A
+42003516200,5162,Edgewood Borough,N/A
+42003437000,4370,Ohio Township,N/A
+42003410000,4100,Bradford Woods Borough,N/A
+42003417100,4171,Springdale Borough,N/A
+42003479000,4790,Baldwin Township,N/A
+42003447000,4470,Leet Township,N/A
+42003451102,4511.02,Moon Township,N/A
+42003489001,4890.01,Pleasant Hills Borough,N/A
+42003090300,903,Pittsburgh,Bloomfield
+42003407001,4070.01,West Deer Township,N/A
+42003412002,4120.02,Franklin Park Borough,N/A
+42003477200,4772,Whitehall Borough,N/A
+42003020300,203,Pittsburgh,Strip District
+42003060500,605,Pittsburgh,Polish Hill
+42003070500,705,Pittsburgh,Shadyside
+42003141400,1414,Pittsburgh,Squirrel Hill South
+42003432400,4324,Avalon Borough,N/A
+42003141200,1412,Pittsburgh,Point Breeze-Regent Square
+42003429600,4296,Ross Township,N/A
+42003475102,4751.02,Bethel Park Municipality,N/A
+42003475402,4754.02,Bethel Park Municipality,N/A
+42003521500,5215,Monroeville Municipality,N/A
+42003140200,1402,Pittsburgh,Squirrel Hill North
+42003413201,4132.01,McCandless Township,N/A
+42003419000,4190,Harmar Township,N/A
+42003473100,4731,Mount Lebanon,N/A
+42003515401,5154.01,Swissvale Borough,N/A
+42003421200,4212,O Hara Township,N/A
+42003429202,4292.02,Ross Township,N/A
+42003521402,5214.02,Monroeville Municipality,N/A
+42003160900,1609,Pittsburgh,South Side Flats
+42003407002,4070.02,West Deer Township,N/A
+42003480300,4803,Baldwin Borough,N/A
+42003270300,2703,Pittsburgh,Brighton Heights
+42003472300,4723,Dormont Borough,N/A
+42003563100,5631,Pittsburgh,Ridgemont-Westwood
+42003192000,1920,Pittsburgh,Beechview
+42003412003,4120.03,Franklin Park Borough,N/A
+42003473200,4732,Mount Lebanon,N/A
+42003480102,4801.02,Baldwin Borough,N/A
+42003415002,4150.02,Indiana Township,N/A
+42003458002,4580.02,Collier Township,N/A
+42003469000,4690,Green Tree Borough,N/A
+42003480200,4802,Baldwin Borough,N/A
+42003499300,4993,Glassport Borough,N/A
+42003516100,5161,Edgewood Borough,N/A
+42003417200,4172,Springdale Borough,N/A
+42003490003,4900.03,South Park Township,N/A
+42003070800,708,Pittsburgh,Shadyside
+42003405000,4050,Frazer Township,N/A
+42003470400,4704,Scott Township,N/A
+42003520001,5200.01,Wilkins Township,N/A
+42003473300,4733,Mount Lebanon,N/A
+42003080900,809,Pittsburgh,Bloomfield
+42003431100,4311,Bellevue Borough,N/A
+42003476200,4762,Castle Shannon Borough,N/A
+42003406000,4060,Fawn Township,N/A
+42003484600,4846,Munhall Borough,N/A
+42003523600,5236,Penn Hills Municipality,N/A
+42003411002,4110.02,Marshall Township,N/A
+42003415001,4150.01,Indiana Township,N/A
+42003460002,4600.02,Kennedy Township,N/A
+42003465600,4656,Crafton Borough,N/A
+42003473401,4734.01,Mount Lebanon,N/A
+42003496102,4961.02,Elizabeth Township,N/A
+42003526101,5261.01,Plum Borough,N/A
+42003401300,4013,Harrison Township,N/A
+42003401100,4011,Harrison Township,N/A
+42003429300,4293,Ross Township,N/A
+42003434000,4340,Ben Avon Borough,N/A
+42003461000,4610,Neville Township,N/A
+42003191700,1917,Pittsburgh,Brookline
+42003320700,3207,Pittsburgh,Overbrook
+42003449000,4490,Crescent Township,N/A
+42003408002,4080.02,Richland Township,N/A
+42003111500,1115,Pittsburgh,East Liberty
+42003526102,5261.02,Plum Borough,N/A
+42003427200,4272,Shaler Township,N/A
+42003507000,5070,East McKeesport Borough,N/A
+42003488100,4881,West Mifflin Borough,N/A
+42003408001,4080.01,Richland Township,N/A
+42003270800,2708,Pittsburgh,Brighton Heights
+42003402000,4020,Brackenridge Borough,N/A
+42003427100,4271,Shaler Township,N/A
+42003453003,4530.03,North Fayette Township,N/A
+42003473402,4734.02,Mount Lebanon,N/A
+42003521200,5212,Monroeville Municipality,N/A
+42003429400,4294,Ross Township,N/A
+42003564500,5645,Jefferson Hills Borough,N/A
+42003110600,1106,Pittsburgh,Highland Park
+42003439000,4390,Bell Acres Borough,N/A
+42003477100,4771,Whitehall Borough,N/A
+42003521100,5211,Monroeville Municipality,N/A
+42003191600,1916,Pittsburgh,Beechview
+42003191800,1918,Pittsburgh,Brookline
+42003500300,5003,Port Vue Borough,N/A
+42003523702,5237.02,Penn Hills Municipality,N/A
+42003551300,5513,McKeesport,N/A
+42003455000,4550,Oakdale Borough,N/A
+42003476100,4761,Castle Shannon Borough,N/A
+42003416000,4160,Springdale Township,N/A
+42003524000,5240,Verona Borough,N/A
+42003478200,4782,Brentwood Borough,N/A
+42003503002,5030.02,White Oak Borough,N/A
+42003473601,4736.01,Mount Lebanon,N/A
+42003480400,4804,Baldwin Borough,N/A
+42003523502,5235.02,Penn Hills Municipality,N/A
+42003450800,4508,Coraopolis Borough,N/A
+42003429100,4291,Ross Township,N/A
+42003458001,4580.01,Collier Township,N/A
+42003526202,5262.02,Plum Borough,N/A
+42003111300,1113,Pittsburgh,East Liberty
+42003523400,5234,Penn Hills Municipality,N/A
+42003561400,5614,Wilkinsburg Borough,N/A
+42003320400,3204,Pittsburgh,Overbrook
+42003111400,1114,Pittsburgh,Garfield
+42003474101,4741.01,Upper St. Clair Municipality,N/A
+42003191100,1911,Pittsburgh,Duquesne Heights
+42003475101,4751.01,Bethel Park Municipality,N/A
+42003445500,4455,Sewickley Borough,N/A
+42003488300,4883,West Mifflin Borough,N/A
+42003564400,5644,North Versailles Township-Trafford Borough-Wall Borough,N/A
+42003472200,4722,Dormont Borough,N/A
+42003565200,5652,Pittsburgh,California-Kirkbride-Manchester
+42003202300,2023,Pittsburgh,Banksville
+42003191400,1914,Pittsburgh,Mount Washington
+42003425000,4250,Etna Borough,N/A
+42003427000,4270,Millvale Borough,N/A
+42003100500,1005,Pittsburgh,Stanton Heights
+42003260700,2607,Pittsburgh,Perry North
+42003040500,405,Pittsburgh,Central Oakland
+42003488400,4884,West Mifflin Borough,N/A
+42003428200,4282,Reserve Township,N/A
+42003486700,4867,Duquesne,N/A
+42003468900,4689,Carnegie Borough,N/A
+42003472400,4724,Dormont Borough,N/A
+42003563000,5630,Pittsburgh,Chartiers City-Fairywood-Windgap
+42003563202,5632.02,Pittsburgh,East Allegheny
+42003040900,409,Pittsburgh,South Oakland
+42003101100,1011,Pittsburgh,Upper Lawrenceville
+42003517000,5170,Braddock Hills Borough,N/A
+42003560400,5604,Wilkinsburg Borough,N/A
+42003457200,4572,Bridgeville Borough,N/A
+42003429700,4297,Ross Township,N/A
+42003488600,4886,West Mifflin Borough,N/A
+42003523100,5231,Penn Hills Municipality,N/A
+42003523701,5237.01,Penn Hills Municipality,N/A
+42003523800,5238,Penn Hills Municipality,N/A
+42003562800,5628,Pittsburgh,East Carnegie-Oakwood
+42003426400,4264,Shaler Township,N/A
+42003260200,2602,Pittsburgh,Perry North
+42003459101,4591.01,Robinson Township,N/A
+42003250900,2509,Pittsburgh,Fineview
+42003191900,1919,Pittsburgh,Brookline
+42003523501,5235.01,Penn Hills Municipality,N/A
+42003480101,4801.01,Baldwin Borough,N/A
+42003050600,506,Pittsburgh,Upper Hill
+42003170600,1706,Pittsburgh,South Side Slopes
+42003141300,1413,Pittsburgh,Squirrel Hill South
+42003477300,4773,Whitehall Borough,N/A
+42003522000,5220,Pitcairn Borough,N/A
+42003261500,2615,Pittsburgh,Perry South
+42003464300,4643,Ingram Borough,N/A
+42003487000,4870,Dravosburg Borough,N/A
+42003403500,4035,Tarentum Borough,N/A
+42003310200,3102,Pittsburgh,Lincoln Place
+42003501000,5010,Versailles Borough,N/A
+42003320600,3206,Pittsburgh,Brookline
+42003562600,5626,Pittsburgh,Elliott-West End
+42003271600,2716,Pittsburgh,Marshall-Shadeland
+42003484500,4845,Munhall Borough,N/A
+42003499400,4994,Glassport Borough,N/A
+42003468700,4687,Carnegie Borough,N/A
+42003478100,4781,Brentwood Borough,N/A
+42003515100,5151,Swissvale Borough,N/A
+42003432300,4323,Avalon Borough,N/A
+42003457100,4571,Bridgeville Borough,N/A
+42003435000,4350,Emsworth Borough,N/A
+42003160800,1608,Pittsburgh,South Side Slopes
+42003404000,4040,East Deer Township,N/A
+42003290200,2902,Pittsburgh,Carrick
+42003562901,5629.01,Pittsburgh,Hazelwood
+42003424000,4240,O Hara Township-Sharpsburg Borough,N/A
+42003430100,4301,West View Borough,N/A
+42003180300,1803,Pittsburgh,Allentown
+42003290100,2901,Pittsburgh,Carrick
+42003485000,4850,Whitaker Borough,N/A
+42003450700,4507,Coraopolis Borough,N/A
+42003401200,4012,Harrison Township,N/A
+42003300100,3001,Pittsburgh,Knoxville
+42003462600,4626,Stowe Township,N/A
+42003492800,4928,Clairton,N/A
+42003494000,4940,Elizabeth Borough,N/A
+42003202200,2022,Pittsburgh,Sheraden
+42003504100,5041,North Versailles Township,N/A
+42003070900,709,Pittsburgh,Shadyside
+42003521301,5213.01,Monroeville Municipality,N/A
+42003508000,5080,Wilmerding Borough,N/A
+42003512000,5120,North Braddock Borough,N/A
+42003562700,5627,Pittsburgh,Allegheny Center-Allegheny West
+42003488200,4882,West Mifflin Borough,N/A
+42003290400,2904,Pittsburgh,Carrick
+42003281500,2815,Pittsburgh,Crafton Heights
+42003463900,4639,McKees Rocks Borough,N/A
+42003483800,4838,Homestead Borough,N/A
+42003030500,305,Pittsburgh,Crawford-Roberts-Historic Lower Hill
+42003562500,5625,Pittsburgh,Esplen-Sheraden
+42003515300,5153,Swissvale Borough,N/A
+42003492900,4929,Clairton,N/A
+42003261400,2614,Pittsburgh,Perry South
+42003561500,5615,Wilkinsburg Borough,N/A
+42003101900,1019,Pittsburgh,Garfield
+42003509400,5094,Turtle Creek Borough,N/A
+42003552000,5520,McKeesport,N/A
+42003513000,5130,North Braddock Borough,N/A
+42003562400,5624,Pittsburgh,Beltzhoover-Bon Air
+42003481000,4810,Mount Oliver Borough,N/A
+42003552200,5522,McKeesport,N/A
+42003010302,103.02,Pittsburgh,Bluff
+42003551200,5512,McKeesport,N/A
+42003565300,5653,Pittsburgh,Hays-New Homestead
+42003262000,2620,Pittsburgh,Spring Hill-City View
+42003562000,5620,Pittsburgh,North Oakland
+42003486800,4868,Duquesne,N/A
+42003180700,1807,Pittsburgh,Mount Washington
+42003492700,4927,Clairton,N/A
+42003040600,406,Pittsburgh,Central Oakland
+42003550900,5509,McKeesport,N/A
+42003420000,4200,Blawnox Borough,N/A
+42003510000,5100,East Pittsburgh Borough,N/A
+42003130200,1302,Pittsburgh,Homewood North
+42003513800,5138,Braddock Borough,N/A
+42003552300,5523,McKeesport,N/A
+42003565100,5651,Pittsburgh,Central Northside
+42003161000,1610,Pittsburgh,Arlington-Arlington Heights-Mt. Oliver-St. Clair
+42003561900,5619,Pittsburgh,Lincoln-Lemington-Belmar
+42003564700,5647,Wilkinsburg Borough,N/A
+42003281400,2814,Pittsburgh,Crafton Heights
+42003564800,5648,Wilkinsburg Borough,N/A
+42003486900,4869,Duquesne,N/A
+42003130700,1307,Pittsburgh,Homewood North-Homewood West
+42003170200,1702,Pittsburgh,South Side Flats
+42003462100,4621,Stowe Township,N/A
+42003050100,501,Pittsburgh,Middle Hill
+42003552400,5524,McKeesport,N/A
+42003051000,510,Pittsburgh,Terrace Village
+42003120300,1203,Pittsburgh,Lincoln-Lemington-Belmar
+42003523200,5232,Penn Hills Municipality,N/A
+42003120900,1209,Pittsburgh,Larimer
+42003514000,5140,Rankin Borough,N/A
+42003562300,5623,Pittsburgh,Glen Hazel-Hazelwood
+42003261300,2613,Pittsburgh,Northview Heights-Summer Hill
+42003040200,402,Pittsburgh,Terrace Village-West Oakland
+42003130800,1308,Pittsburgh,Homewood South
+42003050900,509,Pittsburgh,Bedford Dwellings
+42003551900,5519,McKeesport,N/A
+42003130600,1306,Pittsburgh,East Hills
+42003464400,4644,McKees Rocks Borough,N/A
+42003552100,5521,McKeesport,N/A
+42003051100,511,Pittsburgh,Terrace Village
